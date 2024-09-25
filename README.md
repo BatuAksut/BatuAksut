@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Batuhan.)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate .Net developer from Turkey</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!;I+am+Batuhan.)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **.Net**
